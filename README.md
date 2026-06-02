@@ -1,2 +1,2 @@
 # Sales-Data-Analysis
-my first python project
+# python project
